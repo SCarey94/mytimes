@@ -1,0 +1,15 @@
+header {
+  display: inline-flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+header h1{
+  color: MediumAquamarine;
+  font-size: 14px;
+  align-content: center;
+}
+nav li{
+  display: inline-block;
+  justify-content: flex-end;
+}
